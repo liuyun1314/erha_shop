@@ -28,6 +28,9 @@ Security Assurance: Introduce technologies such as third - party login and data 
 
 ### 作为专注于 Flutter 开发的技术从业者，我期望寻找能发挥自身技能的远程工作机会。本项目充分展示了我在 Flutter 开发领域从架构设计到功能落地的全流程专业能力，无论是复杂 UI 布局的精细实现，还是高并发场景下数据交互逻辑的优化处理，都体现出我扎实的编程功底与高效的问题解决能力。
 As a technical professional specializing in Flutter development, I am eager to find remote work opportunities where I can fully utilize my skills. This project fully demonstrates my full - process professional capabilities in the field of Flutter development, from architecture design to functional implementation. Whether it's the meticulous implementation of complex UI layouts or the optimization of data interaction logic in high - concurrency scenarios, it reflects my solid programming skills and efficient problem - solving abilities.
-### 求职意向 / Job Application Intention
-我期待加入远程开发团队，以自身技术能力为项目赋能，与团队共同创造价值。如果你对我的项目和技能感兴趣，欢迎与我联系，探讨合作机会。
+### 求职意向 / Job Application Intention  
+我期待加入远程开发团队，以自身技术能力为项目赋能，与团队共同创造价值。如果你对我的项目和技能感兴趣，欢迎与我联系， 探讨合作机会。  
 I look forward to joining a remote development team, empowering projects with my technical capabilities, and creating value together with the team. If you are interested in my project and skills, please feel free to contact me to discuss cooperation opportunities.
+
+### Cooperation Email
+fpcfpc911@gmail.com
